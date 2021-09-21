@@ -22,6 +22,8 @@ namespace VarsAndData
 
             // TODO: Declare an array of values
 
+            int[] vals = new int[5];
+            string[] strs = {"one"}
 
             // TODO: Print the values using a Formatting String
 
